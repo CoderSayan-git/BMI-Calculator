@@ -61,7 +61,7 @@ main{
     padding: 8px 15px;
     border-radius: 20px;
     display: inline-block;
-    background-color: #9de3df; /* will be overridden by inline color */
+    background-color: #9de3df;
     font-size: 1.1rem;
 }
 
@@ -74,6 +74,6 @@ main{
 }
 
 .credit strong {
-    color: #60d91a; /* highlight your name */
+    color: #60d91a; 
     font-weight: 600;
   }
