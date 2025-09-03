@@ -1,4 +1,5 @@
 ---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,8 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The project is deployed and accessible here:
 👉 [View on Netlify](https://magical-custard-e0f7b0.netlify.app/)
-
-*(replace the link above with your actual Netlify URL)*
 
 ---
 
@@ -50,14 +49,6 @@ This project is hosted on [Netlify](https://www.netlify.com/).
 3. Netlify automatically handled hosting and CI/CD.
 
 For more details, check [Netlify Deployment Docs](https://docs.netlify.com/).
-
----
-
-## Learn More
-
-* [React Documentation](https://reactjs.org/)
-* [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
-* [Netlify Docs](https://docs.netlify.com/)
 
 ---
 
